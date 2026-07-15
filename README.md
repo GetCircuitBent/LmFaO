@@ -44,3 +44,8 @@ The module has adjustable Rate, Depth, and 4 possible waveforms to select from.
     * LED Resistors will vary depending on Voltage and LED color. Green LEDs worked very well with 5v and 220R Resistors
 
 #### Not expected or required, but if you build it and like it feel free to buy me a coffee or a beer with the Sponsor button!
+
+
+---
+
+Copyright (C) 2021 Get Circuit Bent LLC. Licensed under the [GNU General Public License v3.0](LICENSE). Contact: info@getcircuitbent.com
